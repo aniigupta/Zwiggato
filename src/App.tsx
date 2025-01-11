@@ -4,7 +4,9 @@ import './App.css'
 function App() {
   return (
     <>
-      <div className="App">Welcome! This is Zwiggato...</div>
+      <div>
+        Hi I am from home screen branch
+        </div>
     </>
   )
 }
