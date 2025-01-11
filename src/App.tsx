@@ -7,6 +7,7 @@ function App() {
       <div>
         Hi I am from home screen branch
         </div>
+        <p>I am the new change</p>
     </>
   )
 }
